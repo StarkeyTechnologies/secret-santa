@@ -16,3 +16,8 @@ This project can be executed locally, but will require an AWS account for sendin
 This YouTube video can be guidance for setting up the required resources in AWS for sending the SMS.
 
 https://www.youtube.com/watch?v=MvUdqXI-s7g&t=222s
+
+## Running the code
+Once all of the configurations have been setup and you are ready to run the Secret Santa app, run the start command from NPM.
+
+`npm run start`
